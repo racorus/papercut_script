@@ -1,0 +1,9 @@
+# Local test inputs and superseded prototype
+input.txt
+papercut_bulk_deposit.user.js
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
